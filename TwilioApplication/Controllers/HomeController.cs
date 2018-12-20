@@ -10,7 +10,7 @@ namespace TwilioApplication.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page New";
+            ViewBag.Title = "Just testing";
 
             return View();
         }
